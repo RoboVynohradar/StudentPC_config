@@ -1,0 +1,27 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop]
+"NoChangingWallPaper"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoDriveTypeAutoRun"=dword:00000091
+"NoSearchInternetInStartMenu"=dword:00000001
+"NoSaveSettings"=dword:00000001
+"NoMovingBands"=dword:00000001
+"NoCloseDragDropBands"=dword:00000001
+"NoThemesTab"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+"Test"="OK55"
+"DisableChangePassword"=dword:00000001
+"Wallpaper"="C:\\BG\\java\\3.png"
+"WallpaperStyle"="0"
+"NoColorChoice"=dword:00000001
+"NoDispScrSavPage"=dword:00000001
+"NoVisualStyleChoice"=dword:00000001
+"NoSizeChoice"=dword:00000001
+"NoDispAppearancePage"=dword:00000001
+"NoDispBackgroundPage"=dword:00000001
+
