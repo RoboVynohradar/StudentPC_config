@@ -1,1 +1,1 @@
-regedit.exe /s C:\PROGS\user_polices\main.reg
+regedit.exe /s C:\PROGS\StudentPC_config\Reg\main.reg
