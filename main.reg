@@ -14,7 +14,7 @@ Windows Registry Editor Version 5.00
 "NoThemesTab"=dword:00000001
 
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
-"Test"="RunOkGit12333"
+"Test"="RunOkGit121231231233"
 "DisableChangePassword"=dword:00000001
 "Wallpaper"="C:\\BG\\java\\3.png"
 "WallpaperStyle"="0"
