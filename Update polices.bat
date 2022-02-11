@@ -1,1 +1,1 @@
-regedit.exe /s %cd%/main.reg
+regedit.exe /s C:\PROGS\user_polices\main.reg
