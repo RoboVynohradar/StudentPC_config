@@ -1,0 +1,1 @@
+regedit.exe /s C:\PROGS\StudentPC_config\Reg\Restore.reg
