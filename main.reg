@@ -16,7 +16,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
 "Test"="TEST123"
 "DisableChangePassword"=dword:00000001
-"Wallpaper"="C:\\BG\\java\\3.png"
+"Wallpaper"="C:\\BG\\java\\4.png"
 "WallpaperStyle"="0"
 "NoColorChoice"=dword:00000001
 "NoDispScrSavPage"=dword:00000001
